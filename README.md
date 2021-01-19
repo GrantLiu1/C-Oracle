@@ -1,0 +1,2 @@
+# C-Oracle
+some notes 
