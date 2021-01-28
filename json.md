@@ -4,7 +4,7 @@
     - JSON 是存储和交换文本信息的语法。类似 XML。
     - JSON 比 XML 更小、更快，更易解析。
     
-、、、
+```
 {
 "employees": [
 { "firstName":"Bill" , "lastName":"Gates" },
@@ -12,4 +12,4 @@
 { "firstName":"Thomas" , "lastName":"Carter" }
 ]
 }
-、、、
+```
